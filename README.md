@@ -1,2 +1,33 @@
 # godot-mobile-resources
 A list of useful Godot resources for mobile focused games
+
+## iOS
+
+### [Godot iOS Plugins](https://github.com/godotengine/godot-ios-plugins)
+
+Apn, arkit, camera, gamecenter, icloud, inappstore, photo_picker
+
+## Android
+
+### [PGSGP 3.x](https://github.com/oneseedfruit/PGSGP)
+
+Google Play Games Services Android plugin for Godot 3.2.3 and newer Godot 3.x versions.
+
+### [PGSGP 4.x](https://github.com/finepointcgi/PGSGP)
+
+This is an Android Play Games Services plugin for Godot Game Engine 4.1.
+
+### [Godot Google Play Billing](https://github.com/finepointcgi/godot-google-play-billing)
+
+Godot Android plugin for the Google Play Billing library
+
+## Xplat
+
+### [Godot Facebook](https://github.com/DrMoriarty/godot-facebook)
+
+Facebook module for Godot Game Engine (Android and iOS).
+
+
+### [Godot Local Notification](https://github.com/DrMoriarty/godot-local-notification)
+
+This is a module for Godot Game Engine which add local and remote notification feature for iOS and Android.
