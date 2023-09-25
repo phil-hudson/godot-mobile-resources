@@ -21,6 +21,10 @@ This is an Android Play Games Services plugin for Godot Game Engine 4.1.
 
 Godot Android plugin for the Google Play Billing library
 
+### [Godot Admob Android](https://github.com/Poing-Studios/godot-admob-android)
+
+This repository is for a Godot Engine Plugin that allows showing the ads offered by AdMob in an easy way, without worrying about the building or version, just download and use.
+
 ## Xplat
 
 ### [Godot Facebook](https://github.com/DrMoriarty/godot-facebook)
