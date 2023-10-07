@@ -7,6 +7,10 @@ A list of useful Godot resources for mobile focused games
 
 Apn, arkit, camera, gamecenter, icloud, inappstore, photo_picker
 
+### [Objective C](https://github.com/gilzoide/objectivec-gdextension)
+
+Experimental GDExtension for calling Object-C methods at runtime in Godot 4.1+
+
 ## Android
 
 ### [PGSGP 3.x](https://github.com/oneseedfruit/PGSGP)
